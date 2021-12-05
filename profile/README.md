@@ -1,6 +1,6 @@
-### Welcome to OpenIPC 👋
+## Welcome to OpenIPC 👋
 
-Alternative IP Camera firmware from an [open community](https://opencollective.com/openipc)
+**Alternative IP Camera firmware from an [open community](https://opencollective.com/openipc)**
 
 <!--
 
