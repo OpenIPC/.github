@@ -2,6 +2,27 @@
 
 **Alternative IP Camera firmware from an [open community](https://opencollective.com/openipc)**
 
+| Project                       | Total issues  | Total PR         |
+|-------------------------------|:-------------:|:----------------:|
+| [coupler][p-coupler]          | ![i-coupler]  | ![r-coupler]     |
+| [firmware][p-firmware]        | ![i-firmware] | ![r-firmware]    |
+| [ipctool][p-ipctool]          | ![i-ipctool]  | ![r-ipctool]     |
+
+
+
+[p-firmware]: https://github.com/OpenIPC/firmware
+[i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
+[r-firmware]: https://img.shields.io/github/issues-pr/OpenIPC/firmware
+[p-ipctool]: https://github.com/OpenIPC/ipctool
+[i-ipctool]: https://img.shields.io/github/issues/OpenIPC/ipctool
+[r-ipctool]: https://img.shields.io/github/issues-pr/OpenIPC/ipctool
+[p-coupler]: https://github.com/OpenIPC/coupler
+[i-coupler]: https://img.shields.io/github/issues/OpenIPC/coupler
+[r-coupler]: https://img.shields.io/github/issues-pr/OpenIPC/coupler
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
