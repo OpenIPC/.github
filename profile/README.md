@@ -4,10 +4,10 @@
 
 | Project                       | Total issues     | Total PR         |
 |-------------------------------|:----------------:|:----------------:|
-| [coupler][p-coupler]          | ![i-coupler]     | ![r-coupler]     |
 | [firmware][p-firmware]        | ![i-firmware]    | ![r-firmware]    |
 | [ipctool][p-ipctool]          | ![i-ipctool]     | ![r-ipctool]     |
 | [microbe-web][p-microbe-web]  | ![i-microbe-web] | ![r-microbe-web] |
+| [coupler][p-coupler]          | ![i-coupler]     | ![r-coupler]     |
 
 
 [p-coupler]: https://github.com/OpenIPC/coupler
