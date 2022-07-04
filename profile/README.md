@@ -11,27 +11,32 @@ More information about the project is available [in our wiki](https://openipc.gi
 and [on the website](https://openipc.org/).
 
 
-| Project                       | Total issues     | Total PR         |
-|-------------------------------|:----------------:|:----------------:|
-| [firmware][p-firmware]        | ![i-firmware]    | ![r-firmware]    |
-| [ipctool][p-ipctool]          | ![i-ipctool]     | ![r-ipctool]     |
-| [microbe-web][p-microbe-web]  | ![i-microbe-web] | ![r-microbe-web] |
-| [coupler][p-coupler]          | ![i-coupler]     | ![r-coupler]     |
+| Project                       | Total issues     | Total PR           |
+|:-----------------------------:|:----------------:|:------------------:|
+| [firmware][p-firmware]        | ![i-firmware]    | ![r-firmware]      |
+| [ipctool][p-ipctool]          | ![i-ipctool]     | ![r-ipctool]       |
+| [microbe-web][p-microbe-web]  | ![i-microbe-web] | ![r-microbe-web]   |
+| [wiki][p-wiki]                | ![i-wiki]        | ![r-wiki]          |
 
 
-[p-coupler]: https://github.com/OpenIPC/coupler
-[i-coupler]: https://img.shields.io/github/issues/OpenIPC/coupler
-[r-coupler]: https://img.shields.io/github/issues-pr/OpenIPC/coupler
+
+
 [p-firmware]: https://github.com/OpenIPC/firmware
 [i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
 [r-firmware]: https://img.shields.io/github/issues-pr/OpenIPC/firmware
+
 [p-ipctool]: https://github.com/OpenIPC/ipctool
 [i-ipctool]: https://img.shields.io/github/issues/OpenIPC/ipctool
 [r-ipctool]: https://img.shields.io/github/issues-pr/OpenIPC/ipctool
+
 [p-microbe-web]: https://github.com/OpenIPC/microbe-web
 [i-microbe-web]: https://img.shields.io/github/issues/OpenIPC/microbe-web
 [r-microbe-web]: https://img.shields.io/github/issues-pr/OpenIPC/microbe-web
 
+[p-wiki]: https://github.com/OpenIPC/wiki
+[i-wiki]: https://img.shields.io/github/issues/OpenIPC/wiki
+[r-wiki]: https://img.shields.io/github/issues-pr/OpenIPC/wiki
+[rr-wiki]: https://github.com/OpenIPC/wiki/pulls
 
 
 
