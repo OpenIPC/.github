@@ -1,47 +1,57 @@
 ## OpenIPC firmware
 _(based on Buildroot)_
 
-OpenIPC is a rapidly developing open source alternative firmware for popular IP cameras from an [open community](https://opencollective.com/openipc).
+<!--
+123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|
+-->
 
-Historically, OpenIPC firmware only supported SoC manufactured by HiSilicon, but as the development continues,
-the list of supported processors expands. Today, it also includes chips from Ambarella, Anyka, Fullhan,
-Goke, GrainMedia, Ingenic, MStar, Novatek, SigmaStar, XiongMai and is expected to grow further.
+OpenIPC is a rapidly developing open source alternative firmware for popular IP
+cameras from an [open community](https://opencollective.com/openipc).
 
-More information about the project is available [in our wiki](https://openipc.github.io/wiki/)
-and [on the website](https://openipc.org/).
+Historically, OpenIPC firmware only supported SoC manufactured by HiSilicon,
+but as the development continues, the list of supported processors expands.
+Today, it also includes chips from Ambarella, Anyka, Fullhan, Goke, GrainMedia,
+Ingenic, MStar, Novatek, SigmaStar, XiongMai, and is expected to grow further.
+
+More information about the project is available in our [wiki][wiki] and on the
+[website][website].
+
+| Project                  | Total issues                 | Total PR                     |
+|:------------------------:|:----------------------------:|:----------------------------:|
+| [firmware][p-firmware]   | [![i-firmware]][is-firmware] | [![r-firmware]][pr-firmware] |
+| [ipctool][p-ipctool]     | [![i-ipctool]][is-ipctool]   | [![r-ipctool]][pr-ipctool]   |
+| [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
+| [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         |
 
 
-| Project                       | Total issues     | Total PR           |
-|:-----------------------------:|:----------------:|:------------------:|
-| [firmware][p-firmware]        | ![i-firmware]    | ![r-firmware]      |
-| [ipctool][p-ipctool]          | ![i-ipctool]     | ![r-ipctool]       |
-| [microbe-web][p-microbe-web]  | ![i-microbe-web] | ![r-microbe-web]   |
-| [wiki][p-wiki]                | ![i-wiki]        | ![r-wiki]          |
-
-
-
+[wiki]: https://openipc.github.io/wiki/
+[website]: https://openipc.org/
 
 [p-firmware]: https://github.com/OpenIPC/firmware
 [i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
 [r-firmware]: https://img.shields.io/github/issues-pr/OpenIPC/firmware
+[is-firmware]: https://github.com/OpenIPC/firmware/issues
+[pr-firmware]: https://github.com/OpenIPC/firmware/pulls
 
 [p-ipctool]: https://github.com/OpenIPC/ipctool
 [i-ipctool]: https://img.shields.io/github/issues/OpenIPC/ipctool
 [r-ipctool]: https://img.shields.io/github/issues-pr/OpenIPC/ipctool
+[is-ipctool]: https://github.com/OpenIPC/ipctool/issues
+[pr-ipctool]: https://github.com/OpenIPC/ipctool/pulls
 
-[p-microbe-web]: https://github.com/OpenIPC/microbe-web
-[i-microbe-web]: https://img.shields.io/github/issues/OpenIPC/microbe-web
-[r-microbe-web]: https://img.shields.io/github/issues-pr/OpenIPC/microbe-web
+[p-microbe]: https://github.com/OpenIPC/microbe-web
+[i-microbe]: https://img.shields.io/github/issues/OpenIPC/microbe-web
+[r-microbe]: https://img.shields.io/github/issues-pr/OpenIPC/microbe-web
+[is-microbe]: https://github.com/OpenIPC/microbe-web/issues
+[pr-microbe]: https://github.com/OpenIPC/microbe-web/pulls
 
 [p-wiki]: https://github.com/OpenIPC/wiki
 [i-wiki]: https://img.shields.io/github/issues/OpenIPC/wiki
 [r-wiki]: https://img.shields.io/github/issues-pr/OpenIPC/wiki
-[rr-wiki]: https://github.com/OpenIPC/wiki/pulls
-
-
+[is-wiki]: https://github.com/OpenIPC/wiki/issues
+[pr-wiki]: https://github.com/OpenIPC/wiki/pulls
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
