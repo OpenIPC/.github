@@ -21,6 +21,7 @@ More information about the project is available in our [wiki][wiki] and on the
 | [firmware][p-firmware]   | [![i-firmware]][is-firmware] | [![r-firmware]][pr-firmware] |
 | [ipctool][p-ipctool]     | [![i-ipctool]][is-ipctool]   | [![r-ipctool]][pr-ipctool]   |
 | [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
+| [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
 | [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         |
 
 
@@ -44,6 +45,12 @@ More information about the project is available in our [wiki][wiki] and on the
 [r-microbe]: https://img.shields.io/github/issues-pr/OpenIPC/microbe-web
 [is-microbe]: https://github.com/OpenIPC/microbe-web/issues
 [pr-microbe]: https://github.com/OpenIPC/microbe-web/pulls
+
+[p-website]: https://github.com/OpenIPC/website
+[i-website]: https://img.shields.io/github/issues/OpenIPC/website
+[r-website]: https://img.shields.io/github/issues-pr/OpenIPC/website
+[is-website]: https://github.com/OpenIPC/website/issues
+[pr-website]: https://github.com/OpenIPC/website/pulls
 
 [p-wiki]: https://github.com/OpenIPC/wiki
 [i-wiki]: https://img.shields.io/github/issues/OpenIPC/wiki
