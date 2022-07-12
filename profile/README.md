@@ -21,7 +21,7 @@ More information about the project is available in our [wiki][wiki] and on the
 | [firmware][p-firmware]   | [![i-firmware]][is-firmware] | [![r-firmware]][pr-firmware] |
 | [ipctool][p-ipctool]     | [![i-ipctool]][is-ipctool]   | [![r-ipctool]][pr-ipctool]   |
 | [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
-| [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
+| [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
 | [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         |
 
 
