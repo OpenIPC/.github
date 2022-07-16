@@ -1,10 +1,6 @@
 ## OpenIPC firmware
 _(based on Buildroot)_
 
-<!--
-123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|
--->
-
 OpenIPC is a rapidly developing open source alternative firmware for popular IP
 cameras from an [open community](https://opencollective.com/openipc).
 
@@ -13,8 +9,8 @@ but as the development continues, the list of supported processors expands.
 Today, it also includes chips from Ambarella, Anyka, Fullhan, Goke, GrainMedia,
 Ingenic, MStar, Novatek, SigmaStar, XiongMai, and is expected to grow further.
 
-More information about the project is available in our [wiki][wiki] and on the
-[website][website].
+More information about the project is available in our [website][website] and 
+on the [wiki][wiki].
 
 | Project                  | Total issues                 | Total PR                     |
 |:------------------------:|:----------------------------:|:----------------------------:|
