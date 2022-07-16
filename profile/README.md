@@ -1,16 +1,24 @@
 ## OpenIPC firmware
 _(based on Buildroot)_
 
-OpenIPC is a rapidly developing open source alternative firmware for popular IP
-cameras from an [open community](https://opencollective.com/openipc).
+OpenIPC is a rapidly developing open source alternative [firmware][firmware] for 
+popular IP cameras from an [open community](https://opencollective.com/openipc).
 
-Historically, OpenIPC firmware only supported SoC manufactured by HiSilicon,
-but as the development continues, the list of supported processors expands.
-Today, it also includes chips from Ambarella, Anyka, Fullhan, Goke, GrainMedia,
-Ingenic, MStar, Novatek, SigmaStar, XiongMai, and is expected to grow further.
+Historically, OpenIPC [firmware][firmware] only supported SoC manufactured by 
+HiSilicon, but as the development continues, the list of supported processors
+expands. Today, it also includes chips from _Ambarella_, _Anyka_, _Fullhan_, _Goke_,
+_GrainMedia_, _Ingenic_, _MStar_, _Novatek_, _SigmaStar_, _XiongMai_, and is 
+expected to grow further.
 
-More information about the project is available in our [website][website] and 
-on the [wiki][wiki].
+More information about the [project][project] is available in our [website][website]
+and on the [wiki][wiki].
+
+[firmware]: https://github.com/openipc/firmware/
+[project]: https://github.com/openipc/
+[website]: https://openipc.org/
+[wiki]: https://openipc.github.io/wiki/
+
+
 
 | Project                  | Total issues                 | Total PR                     |
 |:------------------------:|:----------------------------:|:----------------------------:|
@@ -19,10 +27,6 @@ on the [wiki][wiki].
 | [microbe-web][p-microbe] | [![i-microbe]][is-microbe]   | [![r-microbe]][pr-microbe]   |
 | [website][p-website]     | [![i-website]][is-website]   | [![r-website]][pr-website]   |
 | [wiki][p-wiki]           | [![i-wiki]][is-wiki]         | [![r-wiki]][pr-wiki]         |
-
-
-[wiki]: https://openipc.github.io/wiki/
-[website]: https://openipc.org/
 
 [p-firmware]: https://github.com/OpenIPC/firmware
 [i-firmware]: https://img.shields.io/github/issues/OpenIPC/firmware
