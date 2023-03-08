@@ -31,4 +31,4 @@ and on the [wiki][wiki].
 [paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
 [project]: https://github.com/openipc/
 [website]: https://openipc.org/
-[wiki]: https://openipc.github.io/wiki/
+[wiki]: https://github.com/OpenIPC/wiki
