@@ -1,5 +1,5 @@
 
-## Alternative open firmware for your IP camera  [![Telegram](/profile/images/telegram.png)][telegram]
+## Alternative open firmware for your IP camera  [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 _(based on Buildroot)_
 
 OpenIPC is an open source operating system from the [open community](opencollective)
