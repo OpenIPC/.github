@@ -35,6 +35,6 @@ and on the [wiki][wiki].
 [opencollective]: https://opencollective.com/openipc
 [paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
 [project]: https://github.com/openipc/
-[telegram]: https://t.me/OpenIPC
+[telegram]: https://t.me/openipc
 [website]: https://openipc.org/
-[wiki]: https://github.com/OpenIPC/wiki
+[wiki]: https://github.com/openipc/wiki
