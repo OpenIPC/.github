@@ -2,7 +2,7 @@
 ## Alternative open firmware for your IP camera  [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 _(based on Buildroot)_
 
-OpenIPC is an open source operating system from the [open community](opencollective)
+OpenIPC is an open source operating system from the [open community][opencollective]
 targeting for IP cameras with ARM and MIPS processors from several manufacturers in
 order to replace that closed, opaque, insecure, often abandoned and unsupported
 firmware pre-installed by a vendor.
