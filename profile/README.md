@@ -1,6 +1,6 @@
 ![OpenIPC logo][logo]
 
-## Alternative open firmware for your IP camera  
+## Alternative open firmware for your IP camera
 _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
@@ -31,7 +31,6 @@ and on the [wiki][wiki].
 <p align="center">
 <a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="250" alt="Open Collective donate button"></a>
 </p>
-
 
 [firmware]: https://github.com/openipc/firmware
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
