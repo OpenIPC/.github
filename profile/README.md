@@ -1,6 +1,9 @@
+![OpenIPC logo][logo]
 
-## Alternative open firmware for your IP camera  [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
+## Alternative open firmware for your IP camera  
 _(based on Buildroot)_
+
+[![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
 OpenIPC is an open source operating system from the [open community][opencollective]
 targeting for IP cameras with ARM and MIPS processors from several manufacturers in
@@ -30,11 +33,12 @@ and on the [wiki][wiki].
 </p>
 
 
-[firmware]: https://github.com/openipc/firmware/
-[mit]: https://opensource.org/license/mit/
+[firmware]: https://github.com/openipc/firmware
+[logo]: https://openipc.org/assets/openipc-logo-black.svg
+[mit]: https://opensource.org/license/mit
 [opencollective]: https://opencollective.com/openipc
 [paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
-[project]: https://github.com/openipc/
+[project]: https://github.com/openipc
 [telegram]: https://t.me/openipc
-[website]: https://openipc.org/
+[website]: https://openipc.org
 [wiki]: https://github.com/openipc/wiki
