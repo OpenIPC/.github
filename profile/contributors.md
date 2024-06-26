@@ -2,8 +2,6 @@
 
 ## Core contributors to OpenIPC
 
-# Contributors
-
 [<img src="https://avatars.githubusercontent.com/u/88846?v=4" width="40px;"/>](https://github.com/ZigFisher)
 [<img src="https://avatars.githubusercontent.com/u/68112357?v=4" width="40px;"/>](https://github.com/flyrouter)
 [<img src="https://avatars.githubusercontent.com/u/94921687?v=4" width="40px;"/>](https://github.com/ystinia)
