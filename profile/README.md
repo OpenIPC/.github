@@ -1,4 +1,8 @@
-![OpenIPC logo][logo]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://openipc.org/assets/openipc-logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://openipc.org/assets/openipc-logo-black.svg">
+  <img alt="OpenIPC logo" src="https://openipc.org/assets/openipc-logo-black.svg">
+</picture>
 
 ## Alternative open firmware for your IP camera
 _(based on Buildroot)_
@@ -34,7 +38,6 @@ and on the [wiki][wiki].
 
 
 [firmware]: https://github.com/openipc/firmware
-[logo]: https://openipc.org/assets/openipc-logo-black.svg
 [mit]: https://opensource.org/license/mit
 [opencollective]: https://opencollective.com/openipc
 [paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
